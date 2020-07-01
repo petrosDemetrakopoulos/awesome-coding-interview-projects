@@ -32,6 +32,7 @@ So here is a list to guide and help anyone looking for a job and may want to see
 * [NodeJS calculator interview challenge](https://github.com/sphinx-software/calculator-interview)
 * [Intentionally-error-filled NodeJS code, to be modified and re-submitted as an interview test ](https://github.com/loipl/NodeJS-assessment)
 * [Simple NodeJS API providing CRUD operations for employees of a company](https://github.com/vivek4321/EmployeeAddress-NodeJS-Angular)
+* [Simple NodeJS API with operations for users and notifications to users](https://github.com/tolmamal/code-interview)
 
 
 ### License
