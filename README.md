@@ -24,6 +24,7 @@ So here is a list to guide and help anyone looking for a job and may want to see
 * [ReactJS contacts app (MERN stack)](https://github.com/petrosDemetrakopoulos/MERN-Contacts-Demo)
 * [ReactJS app showing top GitHub repos](https://github.com/stephasaurusRex/learn-github-api-pages)
 * [ReactJS app with CRUD operations for images shown in a grid](https://github.com/akon3000/ReInterview)
+* [ReactJS To-Do App](https://github.com/golanitay1984/node-react-exercise)
 
 ### NodeJS
 
@@ -38,6 +39,7 @@ So here is a list to guide and help anyone looking for a job and may want to see
 * [A NodeJS interview challenge serving static content](https://github.com/ShironM2302/static-content-challenge-pb)
 * [Just another NodeJS interview project](https://github.com/sujameslin/nodejs-interview)
 * [A project management NodeJS App](https://github.com/druchefavour/interview)
+* [NodeJS To-Do App with simple ReactJS Front-end](https://github.com/golanitay1984/node-react-exercise)
 
 ### License
 
