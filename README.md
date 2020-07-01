@@ -35,7 +35,7 @@ So here is a list to guide and help anyone looking for a job and may want to see
 * [Simple NodeJS API with operations for users and notifications to users](https://github.com/tolmamal/code-interview)
 * [A NodeJS Messenger bot interview assignment](https://github.com/hollywood-itdev/messengerBot)
 * [A NodeJS app fetching web addresses](https://github.com/hhsadiq/punch-interview)
-
+* [A NodeJS interview challenge serving static content](https://github.com/ShironM2302/static-content-challenge-pb)
 
 ### License
 
