@@ -22,3 +22,8 @@ So here is a list to guide and help anyone looking for a job and may want to see
 * [ReactJS music player](https://github.com/petrosDemetrakopoulos/react-music-player)
 * [ReactJS contacts app (MERN stack)](https://github.com/petrosDemetrakopoulos/MERN-Contacts-Demo)
 
+
+### License
+
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
