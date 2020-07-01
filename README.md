@@ -12,7 +12,7 @@ So here is a list to guide and help anyone looking for a job and may want to see
 
 
 - [Web development](#web-development)
-	[ReactJS](#reactjs)
+	- [ReactJS](#reactjs)
 
 ## Web development
 
