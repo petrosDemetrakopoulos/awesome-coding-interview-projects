@@ -2,6 +2,12 @@
 
 A curated list of coding projects assigned by recruiters after an interview for a software development position
 
-[What makes for an awesome list?](awesome.md)
+## Motivation
+During the last month, I have been in search of a job in the software development industry.
+Almost every recruiter I met during this process, asked me to deliver a coding project (assigned and selected by him) in order to understand the level of understanding and skills I had.
+
+So here is a list to guide and help anyone looking for a job and may want to see some completed interview projects.
+
+### Table of Contents
 
 
