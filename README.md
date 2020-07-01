@@ -21,7 +21,7 @@ So here is a list to guide and help anyone looking for a job and may want to see
 * [ReactJS table showing users with toogled status](https://github.com/petrosDemetrakopoulos/react-challenge)
 * [ReactJS music player](https://github.com/petrosDemetrakopoulos/react-music-player)
 * [ReactJS contacts app (MERN stack)](https://github.com/petrosDemetrakopoulos/MERN-Contacts-Demo)
-
+* [ReactJS app showing top GitHub repos](https://github.com/stephasaurusRex/learn-github-api-pages)
 
 ### License
 
