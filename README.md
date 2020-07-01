@@ -25,6 +25,15 @@ So here is a list to guide and help anyone looking for a job and may want to see
 * [ReactJS app showing top GitHub repos](https://github.com/stephasaurusRex/learn-github-api-pages)
 * [ReactJS app with CRUD operations for images shown in a grid](https://github.com/akon3000/ReInterview)
 
+### NodeJS
+
+* [NodeJS API providing CRUD operations for contacts](https://github.com/petrosDemetrakopoulos/MERN-Contacts-Demo)
+* [Simple NodeJS challenge requesting modifications over existing code](https://github.com/BarstoolSports/backend-challenge)
+* [NodeJS calculator interview challenge](https://github.com/sphinx-software/calculator-interview)
+* [Intentionally-error-filled NodeJS code, to be modified and re-submitted as an interview test ](https://github.com/loipl/NodeJS-assessment)
+* [Simple NodeJS API providing CRUD operations for employees of a company](https://github.com/vivek4321/EmployeeAddress-NodeJS-Angular)
+
+
 ### License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
