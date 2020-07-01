@@ -11,3 +11,11 @@ So here is a list to guide and help anyone looking for a job and may want to see
 ### Table of Contents
 
 
+- [Web development](#web-development)
+	[ReactJS](#reactjs)
+
+### ReactJS
+
+* [ReactJS table showing users with toogled status](https://github.com/petrosDemetrakopoulos/react-challenge)
+* [ReactJS music player](https://github.com/petrosDemetrakopoulos/react-music-player)
+
