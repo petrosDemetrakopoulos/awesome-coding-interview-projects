@@ -16,6 +16,7 @@ So here is a list to guide and help anyone looking for a job and may want to see
 	- [ReactJS](#reactjs)
 	- [NodeJS](#nodejs)
 	- [Django](#django)
+	- [HTML / CSS](#html/css)
 
 ## Web development
 
@@ -45,6 +46,9 @@ So here is a list to guide and help anyone looking for a job and may want to see
 
 ### Django
 * [Django interview project using Twitter API](https://github.com/maxg203/django-tweets) 
+
+### HTML/CSS
+* [Simple one-page HTML / CSS interview project](https://github.com/MasoudHsz/Interview-Project)
 
 ### License
 
