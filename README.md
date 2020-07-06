@@ -14,6 +14,8 @@ So here is a list to guide and help anyone looking for a job and may want to see
 
 - [Web development](#web-development)
 	- [ReactJS](#reactjs)
+	- [NodeJS](#nodejs)
+	- [Django](#django)
 
 ## Web development
 
@@ -40,6 +42,9 @@ So here is a list to guide and help anyone looking for a job and may want to see
 * [Just another NodeJS interview project](https://github.com/sujameslin/nodejs-interview)
 * [A project management NodeJS App](https://github.com/druchefavour/interview)
 * [NodeJS To-Do App with simple ReactJS Front-end](https://github.com/golanitay1984/node-react-exercise)
+
+### Django
+* [Django interview project using Twitter API](https://github.com/maxg203/django-tweets) 
 
 ### License
 
