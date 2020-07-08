@@ -11,14 +11,13 @@ So here is a list to guide and help anyone looking for a job and may want to see
 
 ### Table of Contents
 
-
 - [Web development](#web-development)
 	- [ReactJS](#reactjs)
 	- [NodeJS](#nodejs)
 	- [Django](#django)
 	- [HTML / CSS](#html/css)
 
--[Python](#python)
+- [Python](#python)
 
 ## Web development
 
