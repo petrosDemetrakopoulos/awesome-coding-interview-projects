@@ -33,7 +33,7 @@ So here is a list to guide and help anyone looking for a job and may want to see
 * [ReactJS To-Do App](https://github.com/golanitay1984/node-react-exercise)
 
 ### AngularJS
-*[Simple Basic E-Commerce Frontend Part ](https://github.com/yusufcakal/e-commerce-front)
+* [Simple Basic E-Commerce Frontend Part ](https://github.com/yusufcakal/e-commerce-front)
 
 ### NodeJS
 
