@@ -13,9 +13,11 @@ So here is a list to guide and help anyone looking for a job and may want to see
 
 - [Web development](#web-development)
 	- [ReactJS](#reactjs)
+	- [AngularJS](angularjs)
 	- [NodeJS](#nodejs)
 	- [Django](#django)
 	- [HTML / CSS](#html/css)
+	- [Spring](#spring)
 
 - [Python](#python)
 
@@ -29,6 +31,9 @@ So here is a list to guide and help anyone looking for a job and may want to see
 * [ReactJS app showing top GitHub repos](https://github.com/stephasaurusRex/learn-github-api-pages)
 * [ReactJS app with CRUD operations for images shown in a grid](https://github.com/akon3000/ReInterview)
 * [ReactJS To-Do App](https://github.com/golanitay1984/node-react-exercise)
+
+### AngularJS
+*[Simple Basic E-Commerce Frontend Part ](https://github.com/yusufcakal/e-commerce-front)
 
 ### NodeJS
 
@@ -52,6 +57,9 @@ So here is a list to guide and help anyone looking for a job and may want to see
 
 ### HTML/CSS
 * [Simple one-page HTML / CSS interview project](https://github.com/MasoudHsz/Interview-Project)
+
+### Spring
+* [Simple Basic E-Commerce Service built in Spring](https://github.com/yusufcakal/e-commerce)
 
 ## Python
 * [A python script extracting XML data and save it as xlsx file](https://github.com/neoshh/xml-data-extraction)
