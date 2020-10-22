@@ -55,7 +55,9 @@ So here is a list to guide and help anyone looking for a job and may want to see
 
 ## Python
 * [A python script extracting XML data and save it as xlsx file](https://github.com/neoshh/xml-data-extraction)
-
+* [Singlestone Data Python Exercise](https://github.com/byramag/data_python_exercise)
+* [End to end web interview project (Python Flask, Vuew.JS, MongoDB)](https://github.com/sergmart592/interview_project)
+* [small projects in Python for interviews](https://github.com/NickF9/small-projects-in-Python-for-interviews)
 ### License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
